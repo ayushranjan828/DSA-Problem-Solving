@@ -1,3 +1,4 @@
+// Quick Sort algorithm is based on Divide and Conqure
 #include<iostream>
 using namespace std;
 
